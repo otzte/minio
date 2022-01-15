@@ -1,0 +1,19 @@
+{
+  "name": "minio",
+  "version": "1.0.0",
+  "description": "minio project/ einarbeitung",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otzte/minio.git"
+  },
+  "author": "adrian steinle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otzte/minio/issues"
+  },
+  "homepage": "https://github.com/otzte/minio#readme"
+}
